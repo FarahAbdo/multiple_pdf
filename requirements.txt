@@ -11,3 +11,4 @@ llama-index-llms-groq
 bitsandbytes
 accelerate
 faiss-cpu
+langchain
