@@ -1,14 +1,13 @@
-llama-parse 
+llama-parse
 llama-index-embeddings-fastembed
 llama-index
 fastembed
 llama-index-vector-stores-qdrant
 qdrant_client
 llama-index-embeddings-ollama
-llama_index-llms-ollama
+llama-index-llms-ollama
 python-dotenv
 llama-index-llms-groq
 bitsandbytes
 accelerate
-faiss-gpu
-python-dotenv
+faiss-cpu
