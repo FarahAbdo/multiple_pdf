@@ -7,4 +7,6 @@ langchain-text-splitters==0.2.2
 langsmith==0.1.93
 orjson==3.10.6
 langchain-community
+python-dotenv==1.0.0
+
 
