@@ -10,6 +10,11 @@ from langchain.chains import ConversationalRetrievalChain
 from transformers import AutoModelForCausalLM, AutoTokenizer, pipeline, StoppingCriteria, StoppingCriteriaList
 import os
 from dotenv import load_dotenv
+from langchain_community.document_loaders import WebBaseLoader
+from langchain_community.embeddings import HuggingFaceEmbeddings
+from langchain_community.vectorstores import FAISS
+
+
 
 load_dotenv()
 
