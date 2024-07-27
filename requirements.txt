@@ -12,3 +12,4 @@ bitsandbytes
 accelerate
 faiss-cpu
 langchain
+langchain-community
