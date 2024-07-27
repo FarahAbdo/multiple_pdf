@@ -13,3 +13,4 @@ accelerate
 faiss-cpu
 langchain
 langchain-community
+transformers
