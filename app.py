@@ -28,7 +28,7 @@ model = AutoModelForCausalLM.from_pretrained(
     model_id,
     trust_remote_code=True,
     device_map='auto',
-    use_auth_token=hf_auth
+    use_auth_token=True
 )
 
 model.eval()
